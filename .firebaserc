@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-employees-46e5d": {
+      "hosting": {
+        "crudEmpleados": [
+          "crud-employees-46e5d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-employees-46e5d"
+  }
+}
